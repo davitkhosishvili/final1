@@ -1,0 +1,19 @@
+@media (max-width:1024px){
+    
+}
+
+
+@media (max-width:375px){
+    .main-div{
+        align-content: center;
+        justify-content: center;
+        display: flex;
+
+    }
+    .burger-bar{
+        display: block;
+        cursor: pointer;
+        color: white;
+        font-size: 2rem;
+    }
+}
